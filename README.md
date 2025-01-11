@@ -3,6 +3,13 @@
 ## Project Overview
 This project aims to detect spam messages using Natural Language Processing (NLP) techniques. It preprocesses SMS data and applies machine learning models to classify messages as spam or non-spam.
 
+## Technology Used
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+- Streamlit
+
 ## Features
 - Text preprocessing: Tokenization, stemming, and stop-word removal
 - Machine learning models: Naïve Bayes, SVM, Random Forest
@@ -24,9 +31,8 @@ This project aims to detect spam messages using Natural Language Processing (NLP
    ```
 3. Run the application:
    ```bash
-   python main.py
+   streamlit run app.py.
    ```
+   - Visit localhost:8501 on your web browser to access the web app.
 
-## Contributions
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
