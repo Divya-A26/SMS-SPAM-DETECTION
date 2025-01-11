@@ -33,6 +33,11 @@ This project aims to detect spam messages using Natural Language Processing (NLP
    ```bash
    streamlit run app.py.
    ```
-   - Visit localhost:8501 on your web browser to access the web app.
+- Visit localhost:8501 on your web browser to access the web app.
+  
+## Contributions
+We welcome your ideas! Feel free to contribute by submitting issues or pull requests.
+
+
 
 
